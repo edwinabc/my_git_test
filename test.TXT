@@ -1,2 +1,6 @@
 123
+<<<<<<< HEAD
 test_conflict
+=======
+add
+>>>>>>> master
